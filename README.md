@@ -8,7 +8,7 @@ Kotlin guide is a sample project source code which helps an Android developer to
 ## Kotlin-REST-API-Manage
 (Manage REST API with okhttp3, retrofit2, gson and rxjava2)
 
-Android has multiple ways to manage Manage REST API. Using some awesome libraries are making it more efficient and awesome. Read the full article on medium:
+Android has multiple ways to manage REST API. Using some awesome libraries are making it more efficient and awesome. Read the full article on medium:
 <br>
 <a href="https://medium.com/@imrankst1221/manage-rest-api-with-okhttp3-retrofit2-gson-and-rxjava2-aa5bea1e8a92">@imrankst1221/manage-rest-api-with-okhttp3-retrofit2-gson-and-rxjava2</a>
 <br>
